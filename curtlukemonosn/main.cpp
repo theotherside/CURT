@@ -14,7 +14,7 @@ int main()
 {
     int lim;
     int isPrime;
-    for(int x=2;x<1000;x++)
+    for(int x=2;x<7927;x++)
     {
         lim=(int) sqrt(x+1);
         isPrime=1;
